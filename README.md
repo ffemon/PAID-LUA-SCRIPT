@@ -1,0 +1,1 @@
+# PAID-LUA-SCRIPT
