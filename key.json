@@ -1,18 +1,16 @@
 {
-  "users": {
-    "FFBDPE0": {
-      "expiry": "2025-08-29",
-      "created": "2025-08-19",
-      "last_login": "2025-08-18",
-      "status": "active",
-      "max_devices": 1
+  "users": [
+    {
+      "username": "toto",
+      "password": "123456",
+      "expiry": "2025-09-30",
+      "script_url": "https://raw.githubusercontent.com/ffemon/PAID-LUA-SCRIPT/main/main.lua"
     },
-    "FFBDHACKER": {
-      "expiry": "2025-08-22",
-      "created": "2025-08-15",
-      "last_login": "2025-08-17",
-      "status": "banned",
-      "max_devices": 2
+    {
+      "username": "guest",
+      "password": "guest123",
+      "expiry": "2025-08-31",
+      "script_url": "https://raw.githubusercontent.com/ffemon/PAID-LUA-SCRIPT/main/main.lua"
     }
-  }
+  ]
 }
