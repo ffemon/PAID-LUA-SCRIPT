@@ -15,8 +15,8 @@ if not creds then os.exit() end
 local username = creds[1]
 local password = creds[2]
 
--- users.json URL
-local json_url = "https://raw.githubusercontent.com/ffemon/PAID-LUA-SCRIPT/main/users.json"
+-- GitHub raw JSON URL (raw link ব্যবহার করতে হবে)
+local json_url = "https://raw.githubusercontent.com/ffemon/PAID-LUA-SCRIPT/main/key.json"
 local data = fetch_json(json_url)
 if not data then os.exit() end
 
