@@ -1,16 +1,10 @@
 {
   "users": [
     {
-      "username": "toto",
-      "password": "123456",
-      "expiry": "2025-09-30",
-      "script_url": "https://raw.githubusercontent.com/ffemon/PAID-LUA-SCRIPT/main/main.lua"
-    },
-    {
-      "username": "guest",
-      "password": "guest123",
-      "expiry": "2025-08-31",
-      "script_url": "https://raw.githubusercontent.com/ffemon/PAID-LUA-SCRIPT/main/main.lua"
+      "username": "emon",
+      "password": "1234",
+      "expiry": "2025-12-31",
+      "script_url": "ttps://raw.githubusercontent.com/ffemon/PAID-LUA-SCRIPT/main/main.lua"
     }
   ]
 }
