@@ -1,6 +1,18 @@
 {
   "users": {
-    "FFBDPE0": { "expiry": "2025-08-29" },
-    "FFBDHACKER": { "expiry": "2025-08-22" }
+    "FFBDPE0": {
+      "expiry": "2025-08-29",
+      "created": "2025-08-19",
+      "last_login": "2025-08-18",
+      "status": "active",
+      "max_devices": 1
+    },
+    "FFBDHACKER": {
+      "expiry": "2025-08-22",
+      "created": "2025-08-15",
+      "last_login": "2025-08-17",
+      "status": "banned",
+      "max_devices": 2
+    }
   }
 }
