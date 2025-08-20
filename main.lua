@@ -121,7 +121,7 @@ function START()
     "🎯 SNIPER AIMBOT TRACKING",
     "🛠️ RISK FUNCTION",
     "🚪 EXIT TOOL"
-  }, nil, "🛠️ FREE FIRE BD HACK TOOL 🛠️\n\n📢 Telegram: @ffemon00\n📺 YouTube: FF BD Hacker\n═════════════════════════════")
+  }, nil, "🛠️ FREE FIRE BD HACK SCRIPT 🛠️\n\n📢 Telegram: @ffemon00\n📺 YouTube: FF BD Hacker\n═════════════════════════════")
 
   if menu == 1 then AA()
   elseif menu == 2 then SECOND_MENU()
