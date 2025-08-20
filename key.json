@@ -1,6 +1,6 @@
 {
-  "status": "offline",
-  "version": "2.0",
+  "status": "online",
+  "version": "1.0",
   "message": "Update available!👌",
   "download": "https://raw.githubusercontent.com/ffemon/PAID-LUA-SCRIPT/main/main.lua"
 }
