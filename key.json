@@ -1,10 +1,6 @@
 {
-  "users": [
-    {
-      "username": "emon",
-      "password": "1234",
-      "expiry": "2025-12-31",
-      "script_url": "https://raw.githubusercontent.com/ffemon/PAID-LUA-SCRIPT/main/main.lua"
-    }
-  ]
+  "status": "online",
+  "version": "1.2",
+  "message": "Update available!",
+  "download": "https://raw.githubusercontent.com/ffemon/PAID-LUA-SCRIPT/main/main.lua"
 }
