@@ -1,3 +1,4 @@
+gg.alert("💖 You show support 🙌\n⚡ Then I will bypass v6 🔥")
 gg.toast("🔥 STARTING FREE FIRE BD HACKER 🔥")
 gg.alert("💣 WELCOME TO FREE FIRE BD HACKER 💣")
 
