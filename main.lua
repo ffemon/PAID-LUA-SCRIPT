@@ -1,1 +1,0 @@
-gg.alert("WAIT FOR NEW SCRIPT UPDATE")
